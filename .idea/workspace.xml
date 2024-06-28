@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="213695c3-f378-48be-88a3-6c0082dc1101" name="Changes" comment="day 38 - completeing lesson 334: Step 2 - Get Exercise Stats with Natural Language Queries">
+    <list default="true" id="213695c3-f378-48be-88a3-6c0082dc1101" name="Changes" comment="day 38 - completing lesson 336. Saving Data into Google Sheets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -23,23 +23,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2iWMbHTN8shMtdHSnszhZd39zOY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Workout Tracker" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="API_KEY" value="111bfb0e20e2d02690ce5663b1df922a" />
+        <env name="APP_ID" value="6ce9ef66" />
+        <env name="AUTHORIZATION" value="Basic c3Bhcmt5TWFya3k6S2lzc015QCQkNjk2OSEhIQ==" />
+        <env name="NUTRITIONIX_ENDPOINT" value="https://trackapi.nutritionix.com/v2/natural/exercise" />
+        <env name="POST_WORKOUT_SHEETY" value="https://api.sheety.co/7089274e21f47622530dd4c143cf9f22/myWorkouts/workouts" />
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,11 +95,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719603750221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 38 - completing lesson 336. Saving Data into Google Sheets">
+      <option name="closed" value="true" />
+      <created>1719609072331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719609072331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 38 - completeing lesson 334: Step 2 - Get Exercise Stats with Natural Language Queries" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 38 - completeing lesson 334: Step 2 - Get Exercise Stats with Natural Language Queries" />
+    <MESSAGE value="day 38 - completing lesson 336. Saving Data into Google Sheets" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 38 - completing lesson 336. Saving Data into Google Sheets" />
   </component>
 </project>
